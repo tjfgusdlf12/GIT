@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+<nav>네비게이션</nav>
+<nav>네비게이션2</nav>
 	Hello World!!
 	Commit 3
 	Commit 4
