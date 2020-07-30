@@ -15,4 +15,8 @@
 	Commit 5
 	<footer>푸터 추가</footer>
 </body>
+<script>
+console.log("hello world")
+
+</script>
 </html>
