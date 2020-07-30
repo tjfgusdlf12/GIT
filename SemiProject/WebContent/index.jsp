@@ -12,5 +12,6 @@
 	Hello World!!
 	Commit 3
 	Commit 4
+	<footer>푸터 추가</footer>
 </body>
 </html>
