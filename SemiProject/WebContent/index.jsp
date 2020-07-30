@@ -17,6 +17,7 @@
 </body>
 <script>
 console.log("hello world")
+alert('hello, git copy')
 
 </script>
 </html>
